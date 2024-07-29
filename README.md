@@ -3,6 +3,7 @@ The objective of the project is to build a content-based movie recommender syste
 
 Methodology
 Data Collection:
+Dataset link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 Gather a dataset containing information about various movies. This dataset should include features such as movie titles, genres, plot summaries, cast, directors, and keywords.
 Feature Extraction:

@@ -73,7 +73,7 @@ To run the Movie Mate project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/mirza7175/Movie-Mate.git
+    git clone https://github.com/abhiramathmika/Movie-Mate.git
     cd Movie-Mate
     ```
 
